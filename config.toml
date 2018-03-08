@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://luciojp.github.io/crypto-jarvis/"
 languageCode = "pt-BR"
 title = "Crypto Jarvis"
 theme = "hugo-agency-theme"
