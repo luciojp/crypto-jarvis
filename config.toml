@@ -84,22 +84,22 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Serviços"
-    subtitle = "Falar das vantagens oferecidas"
+    subtitle = "Nós oferecemos um bot de calls que utiliza de uma Inteligência Artificial que acompanha o mercado e aprende os melhores momentos para entrar nas moedas. Esta I.A. aprende continuamente sobre o mercado, no momento ela está com menos de um mês de aprendizado e já apresenta excelentes resultados! Veja algumas facilidades:"
 
     [[params.services.row]]
 
 
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
+      icon = "fa-telegram"
       title = "Receba os avisos onde estiver"
-      description = "Nós utilizamos o Telegram para enviar os avisos da nossa IA!"
+      description = "Nós utilizamos o Telegram para enviar os avisos da nossa I.A.! Também contamos com um chat que é aberto a todos para tirar dúvidas e conversar sobre o mundo das cryptomoedas."
       url = "#"
 
 [[params.services.row.list]]
       icon = "fa-lock"
       title = "Segurança"
-      description = "Nós não trabalhamos com entradas automatizadas, não precisamos de informação alguma da sua conta, a decisão de entrar fica por sua conta!"
+      description = "Nós não trabalhamos com entradas automatizadas, não precisamos de informação alguma da sua conta, a decisão de entrar nas calls fica por sua conta!"
       url = "#"
 
     [[params.services.row.list]]
@@ -116,7 +116,7 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Detalhes"
-    subtitle = "Descrever o nosso produto mais detalhadamente"
+    subtitle = "O mercado de criptomoedas é enorme, é impossível para um ser humano conseguir acompanhar e analisar todas elas ao mesmo tempo. Baseado neste problema desenvolvemos uma Inteligência Artificial que utiliza diversos indicadores para cada moeda e baseado no histórico aprendido consegue fazer predições. Essas calls levam algumas horas para acontecerem, ou seja, não calls de scalping. No momento, a I.A. já deu 41 calls, onde 18 destas acertaram o mínimo previsto (5% lucro) e chegaram até 22%. 13 calls atingiram um lucro de 3~5%, 5 calls tiveram um lucro de 2~3% e 5 calls foram consideradas como prejuízo, pois o lucro foi menor que 2% ou realmente deram prejuízos. Para mais detalhes, só conferir a planilha: https://goo.gl/GJAhcV . Devido a poucos recursos financeiros, a I.A atualmente só trabalha com apenas 40 moedas da exchange Bittrex. Pretendemos deixar ela trabalhando com todas as moedas da Bittrex e Binance, porém precisamos de recursos para isso. A mensalidade da I.A. após o lançamento terá o custo de R$150,00. Porém como precisamos de recursos para terminar a expansão, vamos abrir 10 vagas para clientes que acreditam no projeto. Para estes 10 clientes faremos o seguinte: A cada mensalidade (R$150,00) paga nesta fase de expansão, além do acesso as calls da I.A. desde agora, terá o mesmo tempo depois do lançamento. Ou seja, se pagar apenas 1 mensalidade agora, terá outra totalmente gratuita quando for lançado oficialmente (envolvendo todas as moedas da Bittrex e Binance)."
 
 [params.portfolio.modal]
       client = "Client"
@@ -173,7 +173,7 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Nosso time"
-    subtitle = "Um subtítulo aqui"
+    subtitle = "Conheça o time que está por trás deste projeto!"
     description = "Uma descrição do time aqui? Talvez..."
 
 # All team member's pictures are stored under 'static/img/team'.
@@ -335,20 +335,19 @@ googleAnalytics = ""
  # Footer section
   [params.footer]
     enable = true
-    copyright = "Published under the Apache License 2.0."
+    copyright = "Ou entre em contato através de alguns dos seguintes canais:"
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "#"
+      link = "https://twitter.com/CryptoJarvisBR"
       title = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      link = "#"
+      link = "https://www.facebook.com/Crypto-Jarvis-429840957468287"
       title = "Facebook"
 
     [[params.footer.social]]
-      icon = "fa-linkedin"
-      link = "#"
-      title = "LinkedIn"
-
+      icon = "fa-telegram"
+      link = "https://t.me/joinchat/AAAAAE8HPekupibx0ICGzg"
+      title = "Telegram - Chat"
