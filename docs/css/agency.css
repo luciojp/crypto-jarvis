@@ -16,6 +16,11 @@ body {
 .text-justify {
     text-align: justify;
     line-height: 1.75;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.text-details {
+    font-size: 16px;
 }
 
 .text-primary {
@@ -352,8 +357,7 @@ section {
 }
 
 section h2.section-heading {
-    margin-top: 0;
-    margin-bottom: 15px;
+    margin: 0 0 15px 0;
     font-size: 40px;
 }
 
@@ -370,7 +374,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 110px 0;
     }
 }
 
